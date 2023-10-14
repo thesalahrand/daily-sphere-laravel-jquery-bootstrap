@@ -1,0 +1,27 @@
+// overriding bootstrap colors
+$primary : #0f9cf3;
+$secondary: #6c757d;
+$success: #6fd088;
+$info: #0097a7;
+$warning: #ffbb44;
+$danger: #f32f53;
+$light: #eff2f7;
+$dark: #0a1832;
+
+// overriding box-shadow of almost everything
+$btn-focus-box-shadow: none;
+$input-focus-box-shadow: none;
+$form-select-focus-box-shadow: none;
+$btn-close-focus-shadow:  none;
+$form-check-input-focus-box-shadow: none;
+
+// toast
+$toast-border-color: none;
+$toast-border-width: none;
+
+// overriding other things
+$font-family-sans-serif: 'Poppins', sans-serif;
+$font-size-base: .875rem;
+
+// import bootstrap
+@import '~bootstrap/scss/bootstrap';

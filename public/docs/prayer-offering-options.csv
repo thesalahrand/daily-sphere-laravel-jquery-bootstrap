@@ -1,0 +1,10 @@
+Prayer Type ID,Option,Applicable Genders,Points,Special Points,Special Genders,Short Description
+1,With takbeer e tahrima,"[""Male""]",1200,,,Prayed in jama'ah with takbeer e tahrima
+1,In jama'ah,"[""Male""]",1000,,,Prayed in jama'ah but missed takbeer e tahrima
+1,Offered alone,"[""Male"", ""Female""]",800,1000,"[""Female""]",Prayed in time but missed jama'ah completely
+1,Qasr/jama,"[""Male"", ""Female""]",1200,1000,"[""Female""]",Prayed qasr/jama (or Fajr) while travelling
+1,Qada',"[""Male"", ""Female""]",600,500,"[""Female""]",Prayed but not in time
+1,Excused,"[""Female""]",1000,,,Excused not to pray for legitimate reasons
+2,Offered ,"[""Male"", ""Female""]",10,,,Prayed in time
+2,Qada',"[""Male"", ""Female""]",5,,,Prayed but not in time
+2,Excused,"[""Male"", ""Female""]",10,,,Excused not to pray for legitimate reasons

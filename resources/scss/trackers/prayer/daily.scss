@@ -1,0 +1,16 @@
+.daily-prayer-tracker-container {
+  @media (min-width: 576px) {
+    .save-btn {
+      width: auto !important;
+    }
+  }
+
+  .quick-actions-dropdown,
+  .history-dropdown {
+    .dropdown-toggle {
+      &::after {
+        display: none;
+      }
+    }
+  }
+}

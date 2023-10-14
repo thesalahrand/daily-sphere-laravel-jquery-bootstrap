@@ -1,0 +1,17 @@
+.success-rate-tooltip {
+  .tooltip-inner {
+    font-size: $font-size-base * .75;
+
+    @media (max-width: 576px) {
+      font-size: $font-size-base * .625;
+    }
+  }
+}
+
+.prayer-leaderboard-container {
+  .leader-row {
+    .progress {
+      height: .75rem;
+    }
+  }
+}
